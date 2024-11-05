@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Gemini-DialogMaster](https://github.com/AdityaKumar2408/Gemini-DialogMaster)
+- 🔭 I’m currently working on [Collab-Code](https://github.com/AdityaKumar2408/Collab-Code)
 
-- 🌱 I’m currently learning **NextJS with TypeScript**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://adityakumar2408-portfolio.netlify.app/](https://adityakumar2408-portfolio.netlify.app/)
 
